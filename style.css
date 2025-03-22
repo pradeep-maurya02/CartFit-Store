@@ -408,7 +408,7 @@ main .section-hero {
     z-index: 2;
 
     & img {
-      width: 1rem;
+      width: 13rem;
       filter: drop-shadow(5px 8px 24px rgba(25, 76, 127, 0.2));
       -webkit-filter: drop-shadow(5px 8px 24px rgba(25, 76, 127, 0.2));
     }
